@@ -1,0 +1,3 @@
+[submodule "Plugins/KantanCharts"]
+	path = Plugins/KantanCharts
+	url = https://github.com/ollyestn/KantanCharts.git
